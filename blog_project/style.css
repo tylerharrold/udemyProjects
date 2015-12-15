@@ -1,0 +1,35 @@
+body{
+  font-family: "Source Sans Pro" , sans-serif;
+  background: #E6E6E6;
+  border: 15px solid #41CC76;
+  max-width: 700px;
+  width: 80%;
+  margin: 20px auto;
+  /*padding: 20px;*/
+}
+
+body div{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h3{
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  color: #188040;
+}
+
+h1{
+  color: #084F23;
+}
+
+hr{
+  margin-left: 5%;
+  margin-right: 5%;
+  border-color: lightgrey;
+}
+
+p:nth-of-type(1){
+  padding-left: 5px;
+  border-left: 5px solid #41CC76;
+}
